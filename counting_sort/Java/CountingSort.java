@@ -1,4 +1,4 @@
-/*Counting Sort algorithm- In Counting sort, the frequencies of distinct elements of the array 
+/*Counting Sort algorithm- In Counting sort, the frequencies of distinct elements of the array
 to be sorted is counted and stored in an auxiliary array, by mapping its value as an index of
 the auxiliary array.
 Time Complexity- The below algorithm takes time O(n+m)
